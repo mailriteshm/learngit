@@ -1,2 +1,2 @@
 # learngit
-Learn Git
+Learn Git faster
